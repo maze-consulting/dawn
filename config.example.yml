@@ -1,0 +1,6 @@
+development:
+  password: shptka_1234
+  theme_id: "12345"
+  store: <my-site>.myshopify.com
+  ignore_files:
+    - config/settings_data.json
